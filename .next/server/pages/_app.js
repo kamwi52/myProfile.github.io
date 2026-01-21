@@ -1,0 +1,6 @@
+(()=>{var e={};e.id=888,e.ids=[888],e.modules={3414:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>u});var s=r(997);r(6764);var a=r(4298),i=r.n(a);function u({Component:e,pageProps:t}){return(0,s.jsxs)(s.Fragment,{children:[s.jsx(i(),{src:"https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX",strategy:"afterInteractive"}),s.jsx(i(),{strategy:"afterInteractive",children:`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-XXXXXXX');
+        `}),s.jsx(e,{...t})]})}},6764:()=>{},7093:(e,t,r)=>{"use strict";e.exports=r(2785)},2785:e=>{"use strict";e.exports=require("next/dist/compiled/next-server/pages.runtime.prod.js")},6689:e=>{"use strict";e.exports=require("react")},6405:e=>{"use strict";e.exports=require("react-dom")},997:e=>{"use strict";e.exports=require("react/jsx-runtime")},167:(e,t)=>{"use strict";t._=t._interop_require_default=function(e){return e&&e.__esModule?e:{default:e}}}};var t=require("../webpack-runtime.js");t.C(e);var r=e=>t(t.s=e),s=t.X(0,[298],()=>r(3414));module.exports=s})();
