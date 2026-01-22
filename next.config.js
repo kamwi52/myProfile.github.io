@@ -10,7 +10,7 @@ const withPWA = require("next-pwa")({
 /** @type {import('next').NextConfig} */
 module.exports = withPWA({
   output: "export",
-  basePath: isProd ? "/kamwisiyauya.github.io" : undefined,
+  basePath: isProd ? "/myProfile.github.io" : undefined,
   // assetPrefix: isProd ? "/behind-the-code-nextjs-portfolio/" : undefined,
   images: {
     unoptimized: true,
